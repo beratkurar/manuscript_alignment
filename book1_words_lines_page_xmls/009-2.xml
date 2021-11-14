@@ -1,0 +1,1916 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-aletheiaexamplepage">
+  <Metadata>
+    <Creator>PRImA Research Lab</Creator>
+    <Created>2015-07-17T15:27:13</Created>
+    <LastChange>2017-07-14T10:03:33</LastChange>
+    <Comments>Example Page</Comments>
+  </Metadata>
+  <Page imageFilename="book1_color_images/009-2.png" imageWidth="461" imageHeight="626">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 459,1 459,624 1,624"/>
+      <TextLine id="l0">
+        <Coords points="36,22 449,22 449,60 36,60"/>
+        <Word id="w0">
+          <Coords points="436,39 448,39 448,51 436,51"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w1">
+          <Coords points="435,28 438,28 438,44 435,44"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w2">
+          <Coords points="395,25 433,25 433,50 395,50"/>
+          <TextEquiv>
+            <Unicode>عتبر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w3">
+          <Coords points="379,26 396,26 396,43 379,43"/>
+          <TextEquiv>
+            <Unicode>حا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w4">
+          <Coords points="345,28 375,28 375,48 345,48"/>
+          <TextEquiv>
+            <Unicode>ل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w5">
+          <Coords points="338,24 355,24 355,41 338,41"/>
+          <TextEquiv>
+            <Unicode>طا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w6">
+          <Coords points="312,26 334,26 334,50 312,50"/>
+          <TextEquiv>
+            <Unicode>يفة</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w7">
+          <Coords points="284,25 287,25 287,39 284,39"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w8">
+          <Coords points="283,27 311,27 311,50 283,50"/>
+          <TextEquiv>
+            <Unicode>من</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w9">
+          <Coords points="262,22 284,22 284,43 262,43"/>
+          <TextEquiv>
+            <Unicode>لمنا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w10">
+          <Coords points="219,27 259,27 259,50 219,50"/>
+          <TextEquiv>
+            <Unicode>فقين</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w11">
+          <Coords points="197,32 215,32 215,55 197,55"/>
+          <TextEquiv>
+            <Unicode>يو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w12">
+          <Coords points="189,38 198,38 198,59 189,59"/>
+          <TextEquiv>
+            <Unicode>م</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w13">
+          <Coords points="184,27 187,27 187,43 184,43"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w14">
+          <Coords points="152,39 183,39 183,49 152,49"/>
+          <TextEquiv>
+            <Unicode>حد</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w15">
+          <Coords points="144,29 147,29 147,44 144,44"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w16">
+          <Coords points="132,27 140,27 140,48 132,48"/>
+          <TextEquiv>
+            <Unicode>ذ</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w17">
+          <Coords points="116,23 132,23 132,49 116,49"/>
+          <TextEquiv>
+            <Unicode>قا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w18">
+          <Coords points="94,29 116,29 116,54 94,54"/>
+          <TextEquiv>
+            <Unicode>لو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w19">
+          <Coords points="93,26 95,26 95,43 93,43"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w20">
+          <Coords points="58,28 90,28 90,56 58,56"/>
+          <TextEquiv>
+            <Unicode>هل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w21">
+          <Coords points="36,22 67,22 67,48 36,48"/>
+          <TextEquiv>
+            <Unicode>لنا</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> و ا عتبر حا ل طا يفة ا من لمنا فقين يو م ا حد ا ذ قا لو ا هل لنا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l1">
+        <Coords points="36,55 452,55 452,105 36,105"/>
+        <Word id="w22">
+          <Coords points="427,62 431,62 431,80 427,80"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w23">
+          <Coords points="416,67 451,67 451,99 416,99"/>
+          <TextEquiv>
+            <Unicode>من</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w24">
+          <Coords points="413,64 427,64 427,85 413,85"/>
+          <TextEquiv>
+            <Unicode>لا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w25">
+          <Coords points="384,79 410,79 410,93 384,93"/>
+          <TextEquiv>
+            <Unicode>مر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w26">
+          <Coords points="356,66 390,66 390,94 356,94"/>
+          <TextEquiv>
+            <Unicode>من</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w27">
+          <Coords points="350,55 374,55 374,84 350,84"/>
+          <TextEquiv>
+            <Unicode>شيء</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w28">
+          <Coords points="333,77 344,77 344,88 333,88"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w29">
+          <Coords points="315,65 335,65 335,91 315,91"/>
+          <TextEquiv>
+            <Unicode>قو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w30">
+          <Coords points="300,62 316,62 316,104 300,104"/>
+          <TextEquiv>
+            <Unicode>لهم</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w31">
+          <Coords points="280,68 299,68 299,90 280,90"/>
+          <TextEquiv>
+            <Unicode>لو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w32">
+          <Coords points="268,62 285,62 285,87 268,87"/>
+          <TextEquiv>
+            <Unicode>كا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w33">
+          <Coords points="250,70 265,70 265,90 250,90"/>
+          <TextEquiv>
+            <Unicode>ن</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w34">
+          <Coords points="218,66 245,66 245,88 218,88"/>
+          <TextEquiv>
+            <Unicode>لنا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w35">
+          <Coords points="188,65 199,65 199,83 188,83"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w36">
+          <Coords points="175,70 186,70 186,89 175,89"/>
+          <TextEquiv>
+            <Unicode>لا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w37">
+          <Coords points="173,71 215,71 215,98 173,98"/>
+          <TextEquiv>
+            <Unicode>من</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w38">
+          <Coords points="142,81 170,81 170,97 142,97"/>
+          <TextEquiv>
+            <Unicode>مر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w39">
+          <Coords points="128,61 152,61 152,91 128,91"/>
+          <TextEquiv>
+            <Unicode>شيء</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w40">
+          <Coords points="111,66 126,66 126,86 111,86"/>
+          <TextEquiv>
+            <Unicode>ما</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w41">
+          <Coords points="71,63 109,63 109,88 71,88"/>
+          <TextEquiv>
+            <Unicode>قتلنا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w42">
+          <Coords points="36,64 68,64 68,91 36,91"/>
+          <TextEquiv>
+            <Unicode>ههنا</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> ا من لا مر من شيء و قو لهم لو كا ن لنا ا لا من مر شيء ما قتلنا ههنا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l2">
+        <Coords points="33,100 451,100 451,146 33,146"/>
+        <Word id="w43">
+          <Coords points="433,115 450,115 450,127 433,127"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w44">
+          <Coords points="415,103 437,103 437,129 415,129"/>
+          <TextEquiv>
+            <Unicode>قو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w45">
+          <Coords points="396,104 415,104 415,145 396,145"/>
+          <TextEquiv>
+            <Unicode>لهم</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w46">
+          <Coords points="377,109 392,109 392,132 377,132"/>
+          <TextEquiv>
+            <Unicode>لو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w47">
+          <Coords points="364,105 380,105 380,128 364,128"/>
+          <TextEquiv>
+            <Unicode>كا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w48">
+          <Coords points="342,111 361,111 361,134 342,134"/>
+          <TextEquiv>
+            <Unicode>نو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w49">
+          <Coords points="339,106 343,106 343,124 339,124"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w50">
+          <Coords points="299,112 337,112 337,131 299,131"/>
+          <TextEquiv>
+            <Unicode>عند</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w51">
+          <Coords points="294,100 316,100 316,120 294,120"/>
+          <TextEquiv>
+            <Unicode>نا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w52">
+          <Coords points="270,105 285,105 285,124 270,124"/>
+          <TextEquiv>
+            <Unicode>ما</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w53">
+          <Coords points="248,104 265,104 265,125 248,125"/>
+          <TextEquiv>
+            <Unicode>ما</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w54">
+          <Coords points="227,104 247,104 247,131 227,131"/>
+          <TextEquiv>
+            <Unicode>تو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w55">
+          <Coords points="224,101 229,101 229,119 224,119"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w56">
+          <Coords points="211,117 221,117 221,129 211,129"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w57">
+          <Coords points="192,101 207,101 207,126 192,126"/>
+          <TextEquiv>
+            <Unicode>ما</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w58">
+          <Coords points="147,106 189,106 189,133 147,133"/>
+          <TextEquiv>
+            <Unicode>قتلو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w59">
+          <Coords points="98,104 137,104 137,137 98,137"/>
+          <TextEquiv>
+            <Unicode>فهل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w60">
+          <Coords points="91,103 99,103 99,126 91,126"/>
+          <TextEquiv>
+            <Unicode>ذ</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w61">
+          <Coords points="52,104 88,104 88,132 52,132"/>
+          <TextEquiv>
+            <Unicode>لك</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w62">
+          <Coords points="45,102 53,102 53,124 45,124"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w63">
+          <Coords points="33,102 51,102 51,129 33,129"/>
+          <TextEquiv>
+            <Unicode>لا</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> و قو لهم لو كا نو ا عند نا ما ما تو ا و ما قتلو فهل ذ لك ا لا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l3">
+        <Coords points="30,132 451,132 451,186 30,186"/>
+        <Word id="w64">
+          <Coords points="415,144 450,144 450,178 415,178"/>
+          <TextEquiv>
+            <Unicode>تصر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w65">
+          <Coords points="399,155 420,155 420,185 399,185"/>
+          <TextEquiv>
+            <Unicode>يح</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w66">
+          <Coords points="385,146 395,146 395,176 385,176"/>
+          <TextEquiv>
+            <Unicode>با</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w67">
+          <Coords points="354,149 381,149 381,172 354,172"/>
+          <TextEquiv>
+            <Unicode>لقد</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w68">
+          <Coords points="330,161 357,161 357,176 330,176"/>
+          <TextEquiv>
+            <Unicode>ر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w69">
+          <Coords points="323,158 336,158 336,169 323,169"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w70">
+          <Coords points="305,139 329,139 329,172 305,172"/>
+          <TextEquiv>
+            <Unicode>قو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w71">
+          <Coords points="263,147 307,147 307,175 263,175"/>
+          <TextEquiv>
+            <Unicode>ل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w72">
+          <Coords points="260,146 278,146 278,166 260,166"/>
+          <TextEquiv>
+            <Unicode>طا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w73">
+          <Coords points="239,147 257,147 257,176 239,176"/>
+          <TextEquiv>
+            <Unicode>يفة</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w74">
+          <Coords points="219,144 222,144 222,160 219,160"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w75">
+          <Coords points="206,148 236,148 236,177 206,177"/>
+          <TextEquiv>
+            <Unicode>من</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w76">
+          <Coords points="183,146 218,146 218,175 183,175"/>
+          <TextEquiv>
+            <Unicode>لمشر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w77">
+          <Coords points="164,132 210,132 210,183 164,183"/>
+          <TextEquiv>
+            <Unicode>كين</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w78">
+          <Coords points="135,152 153,152 153,177 135,177"/>
+          <TextEquiv>
+            <Unicode>لو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w79">
+          <Coords points="111,149 134,149 134,173 111,173"/>
+          <TextEquiv>
+            <Unicode>شا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w80">
+          <Coords points="102,157 107,157 107,169 102,169"/>
+          <TextEquiv>
+            <Unicode>ء</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w81">
+          <Coords points="94,150 98,150 98,172 94,172"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w82">
+          <Coords points="72,162 91,162 91,174 72,174"/>
+          <TextEquiv>
+            <Unicode>لله</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w83">
+          <Coords points="60,145 74,145 74,167 60,167"/>
+          <TextEquiv>
+            <Unicode>ما</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w84">
+          <Coords points="33,135 46,135 46,159 33,159"/>
+          <TextEquiv>
+            <Unicode>نا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w85">
+          <Coords points="30,158 58,158 58,178 30,178"/>
+          <TextEquiv>
+            <Unicode>عبد</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> تصر يح با لقد ر و قو ل طا يفة ا من لمشر كين لو شا ء ا لله ما نا عبد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l4">
+        <Coords points="33,178 447,178 447,229 33,229"/>
+        <Word id="w86">
+          <Coords points="402,193 414,193 414,210 402,210"/>
+          <TextEquiv>
+            <Unicode>د</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w87">
+          <Coords points="401,193 446,193 446,219 401,219"/>
+          <TextEquiv>
+            <Unicode>من</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w88">
+          <Coords points="390,190 403,190 403,208 390,208"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w89">
+          <Coords points="369,187 387,187 387,205 369,205"/>
+          <TextEquiv>
+            <Unicode>نه</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w90">
+          <Coords points="326,195 366,195 366,215 326,215"/>
+          <TextEquiv>
+            <Unicode>من</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w91">
+          <Coords points="319,178 345,178 345,204 319,204"/>
+          <TextEquiv>
+            <Unicode>شيء</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w92">
+          <Coords points="282,185 314,185 314,213 282,213"/>
+          <TextEquiv>
+            <Unicode>نحن</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w93">
+          <Coords points="264,197 278,197 278,210 264,210"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w94">
+          <Coords points="254,184 266,184 266,205 254,205"/>
+          <TextEquiv>
+            <Unicode>لا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w95">
+          <Coords points="245,188 250,188 250,208 245,208"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w96">
+          <Coords points="232,185 243,185 243,216 232,216"/>
+          <TextEquiv>
+            <Unicode>با</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w97">
+          <Coords points="212,197 227,197 227,212 212,212"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w98">
+          <Coords points="202,185 212,185 212,221 202,221"/>
+          <TextEquiv>
+            <Unicode>با</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w99">
+          <Coords points="185,198 194,198 194,209 185,209"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w100">
+          <Coords points="167,199 182,199 182,213 167,213"/>
+          <TextEquiv>
+            <Unicode>قو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w101">
+          <Coords points="131,187 163,187 163,215 131,215"/>
+          <TextEquiv>
+            <Unicode>ل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w102">
+          <Coords points="116,187 135,187 135,211 116,211"/>
+          <TextEquiv>
+            <Unicode>طا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w103">
+          <Coords points="89,190 118,190 118,221 89,221"/>
+          <TextEquiv>
+            <Unicode>يفة</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w104">
+          <Coords points="86,187 90,187 90,207 86,207"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w105">
+          <Coords points="53,187 85,187 85,228 53,228"/>
+          <TextEquiv>
+            <Unicode>نطعم</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w106">
+          <Coords points="33,188 57,188 57,211 33,211"/>
+          <TextEquiv>
+            <Unicode>من</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> د من و نه من شيء نحن و لا ا با و با و قو ل طا يفة ا نطعم من</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l5">
+        <Coords points="30,222 445,222 445,265 30,265"/>
+        <Word id="w107">
+          <Coords points="423,227 444,227 444,252 423,252"/>
+          <TextEquiv>
+            <Unicode>لو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w108">
+          <Coords points="394,223 422,223 422,261 394,261"/>
+          <TextEquiv>
+            <Unicode>يشا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w109">
+          <Coords points="386,235 393,235 393,248 386,248"/>
+          <TextEquiv>
+            <Unicode>ء</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w110">
+          <Coords points="375,225 385,225 385,247 375,247"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w111">
+          <Coords points="352,232 373,232 373,251 352,251"/>
+          <TextEquiv>
+            <Unicode>لله</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w112">
+          <Coords points="343,225 347,225 347,244 343,244"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w113">
+          <Coords points="301,226 341,226 341,250 301,250"/>
+          <TextEquiv>
+            <Unicode>طعمه</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w114">
+          <Coords points="264,224 298,224 298,262 264,262"/>
+          <TextEquiv>
+            <Unicode>تصر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w115">
+          <Coords points="254,233 278,233 278,262 254,262"/>
+          <TextEquiv>
+            <Unicode>يح</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w116">
+          <Coords points="241,226 253,226 253,255 241,255"/>
+          <TextEquiv>
+            <Unicode>با</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w117">
+          <Coords points="200,226 239,226 239,258 200,258"/>
+          <TextEquiv>
+            <Unicode>لجبر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w118">
+          <Coords points="168,238 183,238 183,252 168,252"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w119">
+          <Coords points="167,228 171,228 171,244 167,244"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w120">
+          <Coords points="124,225 165,225 165,264 124,264"/>
+          <TextEquiv>
+            <Unicode>عتبر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w121">
+          <Coords points="113,225 129,225 129,250 113,250"/>
+          <TextEquiv>
+            <Unicode>حا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w122">
+          <Coords points="81,229 110,229 110,251 81,251"/>
+          <TextEquiv>
+            <Unicode>ل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w123">
+          <Coords points="70,223 88,223 88,244 70,244"/>
+          <TextEquiv>
+            <Unicode>طا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w124">
+          <Coords points="30,222 66,222 66,258 30,258"/>
+          <TextEquiv>
+            <Unicode>يفة</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> لو يشا ء ا لله ا طعمه تصر يح با لجبر و ا عتبر حا ل طا يفة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l6">
+        <Coords points="34,254 448,254 448,301 34,301"/>
+        <Word id="w125">
+          <Coords points="444,264 447,264 447,280 444,280"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w126">
+          <Coords points="417,259 440,259 440,288 417,288"/>
+          <TextEquiv>
+            <Unicode>خر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w127">
+          <Coords points="402,266 422,266 422,290 402,290"/>
+          <TextEquiv>
+            <Unicode>ى</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w128">
+          <Coords points="360,266 398,266 398,298 360,298"/>
+          <TextEquiv>
+            <Unicode>حيث</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w129">
+          <Coords points="330,264 358,264 358,296 330,296"/>
+          <TextEquiv>
+            <Unicode>جا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w130">
+          <Coords points="329,275 337,275 337,284 329,284"/>
+          <TextEquiv>
+            <Unicode>د</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w131">
+          <Coords points="306,263 310,263 310,286 306,286"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w132">
+          <Coords points="303,265 325,265 325,291 303,291"/>
+          <TextEquiv>
+            <Unicode>لو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w133">
+          <Coords points="282,263 301,263 301,290 282,290"/>
+          <TextEquiv>
+            <Unicode>في</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w134">
+          <Coords points="268,265 279,265 279,285 268,285"/>
+          <TextEquiv>
+            <Unicode>ذ</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w135">
+          <Coords points="261,266 264,266 264,283 261,283"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w136">
+          <Coords points="237,266 256,266 256,286 237,286"/>
+          <TextEquiv>
+            <Unicode>ت</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w137">
+          <Coords points="226,262 230,262 230,281 226,281"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w138">
+          <Coords points="202,274 223,274 223,287 202,287"/>
+          <TextEquiv>
+            <Unicode>لله</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w139">
+          <Coords points="161,256 201,256 201,292 161,292"/>
+          <TextEquiv>
+            <Unicode>تفكر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w140">
+          <Coords points="161,259 174,259 174,284 161,284"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w141">
+          <Coords points="141,272 159,272 159,289 141,289"/>
+          <TextEquiv>
+            <Unicode>في</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w142">
+          <Coords points="110,265 141,265 141,300 110,300"/>
+          <TextEquiv>
+            <Unicode>جلا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w143">
+          <Coords points="92,267 108,267 108,288 92,288"/>
+          <TextEquiv>
+            <Unicode>له</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w144">
+          <Coords points="74,276 87,276 87,289 74,289"/>
+          <TextEquiv>
+            <Unicode>ر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w145">
+          <Coords points="36,267 75,267 75,292 36,292"/>
+          <TextEquiv>
+            <Unicode>تصر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w146">
+          <Coords points="34,254 47,254 47,283 34,283"/>
+          <TextEquiv>
+            <Unicode>فا</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> ا خر ى حيث جا د ا لو في ذ ا ت ا لله تفكر ا في جلا له ر تصر فا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l7">
+        <Coords points="29,296 458,296 458,345 29,345"/>
+        <Word id="w147">
+          <Coords points="435,297 457,297 457,321 435,321"/>
+          <TextEquiv>
+            <Unicode>في</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w148">
+          <Coords points="428,299 431,299 431,317 428,317"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w149">
+          <Coords points="400,299 423,299 423,322 400,322"/>
+          <TextEquiv>
+            <Unicode>فعا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w150">
+          <Coords points="380,302 398,302 398,326 380,326"/>
+          <TextEquiv>
+            <Unicode>له</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w151">
+          <Coords points="350,302 378,302 378,325 350,325"/>
+          <TextEquiv>
+            <Unicode>حتى</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w152">
+          <Coords points="306,298 349,298 349,340 306,340"/>
+          <TextEquiv>
+            <Unicode>منعهم</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w153">
+          <Coords points="290,312 303,312 303,326 290,326"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w154">
+          <Coords points="267,299 293,299 293,327 267,327"/>
+          <TextEquiv>
+            <Unicode>خو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w155">
+          <Coords points="243,297 271,297 271,344 243,344"/>
+          <TextEquiv>
+            <Unicode>فهم</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w156">
+          <Coords points="210,306 236,306 236,334 210,334"/>
+          <TextEquiv>
+            <Unicode>بقو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w157">
+          <Coords points="195,302 208,302 208,329 195,329"/>
+          <TextEquiv>
+            <Unicode>له</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w158">
+          <Coords points="177,297 198,297 198,325 177,325"/>
+          <TextEquiv>
+            <Unicode>تعا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w159">
+          <Coords points="153,310 160,310 160,324 153,324"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w160">
+          <Coords points="146,304 177,304 177,332 146,332"/>
+          <TextEquiv>
+            <Unicode>لى</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w161">
+          <Coords points="130,312 146,312 146,334 130,334"/>
+          <TextEquiv>
+            <Unicode>ير</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w162">
+          <Coords points="106,300 137,300 137,328 106,328"/>
+          <TextEquiv>
+            <Unicode>سل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w163">
+          <Coords points="98,301 108,301 108,320 98,320"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w164">
+          <Coords points="66,296 68,296 68,314 66,314"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w165">
+          <Coords points="65,304 98,304 98,326 65,326"/>
+          <TextEquiv>
+            <Unicode>لصو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w166">
+          <Coords points="29,301 64,301 64,330 29,330"/>
+          <TextEquiv>
+            <Unicode>عق</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> في ا فعا له حتى منعهم و خو فهم بقو له تعا و لى ير سل ا ا لصو عق</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l8">
+        <Coords points="26,334 447,334 447,380 26,380"/>
+        <Word id="w167">
+          <Coords points="380,338 446,338 446,374 380,374"/>
+          <TextEquiv>
+            <Unicode>فيصيب</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w168">
+          <Coords points="358,334 381,334 381,370 358,370"/>
+          <TextEquiv>
+            <Unicode>بها</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w169">
+          <Coords points="311,337 335,337 335,364 311,364"/>
+          <TextEquiv>
+            <Unicode>يشا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w170">
+          <Coords points="306,341 354,341 354,371 306,371"/>
+          <TextEquiv>
+            <Unicode>من</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w171">
+          <Coords points="296,345 301,345 301,358 296,358"/>
+          <TextEquiv>
+            <Unicode>ء</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w172">
+          <Coords points="277,351 292,351 292,365 277,365"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w173">
+          <Coords points="261,349 281,349 281,379 261,379"/>
+          <TextEquiv>
+            <Unicode>هم</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w174">
+          <Coords points="239,341 260,341 260,373 239,373"/>
+          <TextEquiv>
+            <Unicode>يجا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w175">
+          <Coords points="227,351 234,351 234,362 227,362"/>
+          <TextEquiv>
+            <Unicode>د</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w176">
+          <Coords points="207,341 222,341 222,368 207,368"/>
+          <TextEquiv>
+            <Unicode>لو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w177">
+          <Coords points="191,349 206,349 206,366 191,366"/>
+          <TextEquiv>
+            <Unicode>ن</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w178">
+          <Coords points="165,339 188,339 188,367 165,367"/>
+          <TextEquiv>
+            <Unicode>في</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w179">
+          <Coords points="160,343 162,343 162,361 160,361"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w180">
+          <Coords points="135,353 156,353 156,366 135,366"/>
+          <TextEquiv>
+            <Unicode>لله</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w181">
+          <Coords points="117,353 129,353 129,368 117,368"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w182">
+          <Coords points="87,353 119,353 119,369 87,369"/>
+          <TextEquiv>
+            <Unicode>هو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w183">
+          <Coords points="61,338 93,338 93,366 61,366"/>
+          <TextEquiv>
+            <Unicode>شد</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w184">
+          <Coords points="26,345 54,345 54,371 26,371"/>
+          <TextEquiv>
+            <Unicode>يد</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> فيصيب بها يشا من ء و هم يجا د لو ن في ا لله و هو شد يد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l9">
+        <Coords points="28,373 445,373 445,413 28,413"/>
+        <Word id="w185">
+          <Coords points="441,374 444,374 444,389 441,389"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w186">
+          <Coords points="417,376 436,376 436,402 417,402"/>
+          <TextEquiv>
+            <Unicode>لمحا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w187">
+          <Coords points="379,378 414,378 414,405 379,405"/>
+          <TextEquiv>
+            <Unicode>ل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w188">
+          <Coords points="346,373 350,373 350,391 346,391"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w189">
+          <Coords points="343,375 379,375 379,400 343,400"/>
+          <TextEquiv>
+            <Unicode>فهذ</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w190">
+          <Coords points="321,375 339,375 339,398 321,398"/>
+          <TextEquiv>
+            <Unicode>ما</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w191">
+          <Coords points="301,375 318,375 318,401 301,401"/>
+          <TextEquiv>
+            <Unicode>كا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w192">
+          <Coords points="284,378 299,378 299,402 284,402"/>
+          <TextEquiv>
+            <Unicode>ن</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w193">
+          <Coords points="262,383 280,383 280,399 262,399"/>
+          <TextEquiv>
+            <Unicode>في</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w194">
+          <Coords points="243,376 258,376 258,403 243,403"/>
+          <TextEquiv>
+            <Unicode>ز</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w195">
+          <Coords points="231,375 249,375 249,397 231,397"/>
+          <TextEquiv>
+            <Unicode>ما</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w196">
+          <Coords points="207,379 225,379 225,399 207,399"/>
+          <TextEquiv>
+            <Unicode>نه</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w197">
+          <Coords points="163,380 206,380 206,412 163,412"/>
+          <TextEquiv>
+            <Unicode>عليه</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w198">
+          <Coords points="153,377 156,377 156,396 153,396"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w199">
+          <Coords points="113,377 150,377 150,400 113,400"/>
+          <TextEquiv>
+            <Unicode>لسلا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w200">
+          <Coords points="94,393 112,393 112,408 94,408"/>
+          <TextEquiv>
+            <Unicode>م</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w201">
+          <Coords points="85,389 99,389 99,402 85,402"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w202">
+          <Coords points="55,387 85,387 85,404 55,404"/>
+          <TextEquiv>
+            <Unicode>هو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w203">
+          <Coords points="28,374 62,374 62,401 28,401"/>
+          <TextEquiv>
+            <Unicode>على</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> ا لمحا ل ا فهذ ما كا ن في ز ما نه عليه ا لسلا م و هو على</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l10">
+        <Coords points="25,407 454,407 454,448 25,448"/>
+        <Word id="w204">
+          <Coords points="419,413 453,413 453,440 419,440"/>
+          <TextEquiv>
+            <Unicode>شو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w205">
+          <Coords points="388,407 436,407 436,437 388,437"/>
+          <TextEquiv>
+            <Unicode>كته</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w206">
+          <Coords points="372,423 381,423 381,436 372,436"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w207">
+          <Coords points="350,409 369,409 369,439 350,439"/>
+          <TextEquiv>
+            <Unicode>قو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w208">
+          <Coords points="333,415 351,415 351,433 333,433"/>
+          <TextEquiv>
+            <Unicode>ته</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w209">
+          <Coords points="311,423 329,423 329,437 311,437"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w210">
+          <Coords points="281,417 317,417 317,438 281,438"/>
+          <TextEquiv>
+            <Unicode>صحة</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w211">
+          <Coords points="255,423 277,423 277,443 255,443"/>
+          <TextEquiv>
+            <Unicode>بد</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w212">
+          <Coords points="234,412 254,412 254,435 234,435"/>
+          <TextEquiv>
+            <Unicode>نه</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w213">
+          <Coords points="217,424 229,424 229,437 217,437"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w214">
+          <Coords points="212,413 215,413 215,428 212,428"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w215">
+          <Coords points="188,414 208,414 208,436 188,436"/>
+          <TextEquiv>
+            <Unicode>لمنا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w216">
+          <Coords points="153,417 183,417 183,440 153,440"/>
+          <TextEquiv>
+            <Unicode>فقو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w217">
+          <Coords points="129,425 151,425 151,442 129,442"/>
+          <TextEquiv>
+            <Unicode>ن</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w218">
+          <Coords points="101,416 129,416 129,447 101,447"/>
+          <TextEquiv>
+            <Unicode>يخا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w219">
+          <Coords points="88,426 97,426 97,438 88,438"/>
+          <TextEquiv>
+            <Unicode>د</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w220">
+          <Coords points="60,428 87,428 87,444 60,444"/>
+          <TextEquiv>
+            <Unicode>عو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w221">
+          <Coords points="25,413 63,413 63,439 25,439"/>
+          <TextEquiv>
+            <Unicode>ن</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> شو كته و قو ته و صحة بد نه و ا لمنا فقو ن يخا د عو ن</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l11">
+        <Coords points="25,448 448,448 448,496 25,496"/>
+        <Word id="w222">
+          <Coords points="399,450 447,450 447,488 399,488"/>
+          <TextEquiv>
+            <Unicode>فيظهر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w223">
+          <Coords points="385,467 397,467 397,479 385,479"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w224">
+          <Coords points="361,453 387,453 387,482 361,482"/>
+          <TextEquiv>
+            <Unicode>ن</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w225">
+          <Coords points="359,448 367,448 367,471 359,471"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w226">
+          <Coords points="344,450 361,450 361,477 344,477"/>
+          <TextEquiv>
+            <Unicode>لا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w227">
+          <Coords points="309,453 343,453 343,477 309,477"/>
+          <TextEquiv>
+            <Unicode>سلا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w228">
+          <Coords points="284,468 308,468 308,485 284,485"/>
+          <TextEquiv>
+            <Unicode>م</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w229">
+          <Coords points="271,466 288,466 288,481 271,481"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w230">
+          <Coords points="225,455 273,455 273,487 225,487"/>
+          <TextEquiv>
+            <Unicode>يبطنو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w231">
+          <Coords points="208,458 227,458 227,482 208,482"/>
+          <TextEquiv>
+            <Unicode>ت</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w232">
+          <Coords points="200,456 204,456 204,474 200,474"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w233">
+          <Coords points="170,453 197,453 197,479 170,479"/>
+          <TextEquiv>
+            <Unicode>لنفا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w234">
+          <Coords points="148,455 167,455 167,481 148,481"/>
+          <TextEquiv>
+            <Unicode>ق</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w235">
+          <Coords points="126,456 128,456 128,473 126,473"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w236">
+          <Coords points="126,468 141,468 141,481 126,481"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w237">
+          <Coords points="105,456 121,456 121,479 105,479"/>
+          <TextEquiv>
+            <Unicode>نما</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w238">
+          <Coords points="51,453 105,453 105,491 51,491"/>
+          <TextEquiv>
+            <Unicode>يظهر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w239">
+          <Coords points="47,453 69,453 69,477 47,477"/>
+          <TextEquiv>
+            <Unicode>نفا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w240">
+          <Coords points="25,453 45,453 45,495 25,495"/>
+          <TextEquiv>
+            <Unicode>قهم</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> فيظهر و ن ا لا سلا م و يبطنو ت ا لنفا ق ا و نما يظهر نفا قهم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l12">
+        <Coords points="25,486 447,486 447,527 25,527"/>
+        <Word id="w241">
+          <Coords points="423,494 446,494 446,518 423,518"/>
+          <TextEquiv>
+            <Unicode>في</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w242">
+          <Coords points="385,494 421,494 421,520 385,520"/>
+          <TextEquiv>
+            <Unicode>كل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w243">
+          <Coords points="373,503 386,503 386,515 373,515"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w244">
+          <Coords points="341,491 380,491 380,516 341,516"/>
+          <TextEquiv>
+            <Unicode>قت</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w245">
+          <Coords points="324,493 335,493 335,522 324,522"/>
+          <TextEquiv>
+            <Unicode>با</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w246">
+          <Coords points="311,493 323,493 323,521 311,521"/>
+          <TextEquiv>
+            <Unicode>لا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w247">
+          <Coords points="278,496 281,496 281,513 278,513"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w248">
+          <Coords points="273,498 308,498 308,526 273,526"/>
+          <TextEquiv>
+            <Unicode>عتر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w249">
+          <Coords points="243,498 277,498 277,525 243,525"/>
+          <TextEquiv>
+            <Unicode>ض</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w250">
+          <Coords points="233,491 255,491 255,519 233,519"/>
+          <TextEquiv>
+            <Unicode>على</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w251">
+          <Coords points="201,508 229,508 229,522 201,522"/>
+          <TextEquiv>
+            <Unicode>حر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w252">
+          <Coords points="194,491 218,491 218,516 194,516"/>
+          <TextEquiv>
+            <Unicode>كا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w253">
+          <Coords points="176,500 190,500 190,519 176,519"/>
+          <TextEquiv>
+            <Unicode>ته</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w254">
+          <Coords points="153,507 170,507 170,520 153,520"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w255">
+          <Coords points="111,486 154,486 154,519 111,519"/>
+          <TextEquiv>
+            <Unicode>سكنا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w256">
+          <Coords points="93,497 107,497 107,519 93,519"/>
+          <TextEquiv>
+            <Unicode>ته</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w257">
+          <Coords points="54,493 90,493 90,519 54,519"/>
+          <TextEquiv>
+            <Unicode>فصا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w258">
+          <Coords points="36,510 51,510 51,520 36,520"/>
+          <TextEquiv>
+            <Unicode>ر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w259">
+          <Coords points="25,493 46,493 46,514 25,514"/>
+          <TextEquiv>
+            <Unicode>ت</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> في كل و قت با لا ا عتر ض على حر كا ته و سكنا ته فصا ر ت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l13">
+        <Coords points="30,529 440,529 440,575 30,575"/>
+        <Word id="w260">
+          <Coords points="433,535 439,535 439,555 433,555"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w261">
+          <Coords points="420,538 433,538 433,560 420,560"/>
+          <TextEquiv>
+            <Unicode>لا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w262">
+          <Coords points="391,532 394,532 394,554 391,554"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w263">
+          <Coords points="385,540 420,540 420,567 385,567"/>
+          <TextEquiv>
+            <Unicode>عتر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w264">
+          <Coords points="367,534 388,534 388,557 367,557"/>
+          <TextEquiv>
+            <Unicode>ضا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w265">
+          <Coords points="345,539 364,539 364,559 345,559"/>
+          <TextEquiv>
+            <Unicode>ت</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w266">
+          <Coords points="334,529 352,529 352,554 334,554"/>
+          <TextEquiv>
+            <Unicode>كا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w267">
+          <Coords points="305,534 331,534 331,568 305,568"/>
+          <TextEquiv>
+            <Unicode>لبذ</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w268">
+          <Coords points="293,541 309,541 309,558 293,558"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w269">
+          <Coords points="277,542 295,542 295,557 277,557"/>
+          <TextEquiv>
+            <Unicode>ر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w270">
+          <Coords points="265,543 278,543 278,558 265,558"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w271">
+          <Coords points="233,530 268,530 268,560 233,560"/>
+          <TextEquiv>
+            <Unicode>ظهر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w272">
+          <Coords points="207,529 236,529 236,561 207,561"/>
+          <TextEquiv>
+            <Unicode>منها</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w273">
+          <Coords points="199,533 202,533 202,552 199,552"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w274">
+          <Coords points="160,533 195,533 195,564 160,564"/>
+          <TextEquiv>
+            <Unicode>لشبها</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w275">
+          <Coords points="137,534 158,534 158,558 137,558"/>
+          <TextEquiv>
+            <Unicode>ت</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w276">
+          <Coords points="116,531 143,531 143,563 116,563"/>
+          <TextEquiv>
+            <Unicode>كا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w277">
+          <Coords points="97,535 116,535 116,562 97,562"/>
+          <TextEquiv>
+            <Unicode>لز</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w278">
+          <Coords points="86,546 100,546 100,570 86,570"/>
+          <TextEquiv>
+            <Unicode>ر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w279">
+          <Coords points="78,546 96,546 96,574 78,574"/>
+          <TextEquiv>
+            <Unicode>ع</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w280">
+          <Coords points="57,549 71,549 71,562 57,562"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w281">
+          <Coords points="54,533 58,533 58,551 54,551"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w282">
+          <Coords points="30,532 54,532 54,558 30,558"/>
+          <TextEquiv>
+            <Unicode>ما</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> ا لا ا عتر ضا ت كا لبذ و ر و ظهر منها ا لشبها ت كا لز ر ع و ا ما</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l14">
+        <Coords points="28,567 443,567 443,612 28,612"/>
+        <Word id="w283">
+          <Coords points="432,574 442,574 442,594 432,594"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w284">
+          <Coords points="421,573 434,573 434,599 421,599"/>
+          <TextEquiv>
+            <Unicode>لا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w285">
+          <Coords points="382,571 421,571 421,599 382,599"/>
+          <TextEquiv>
+            <Unicode>ختلا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w286">
+          <Coords points="366,575 379,575 379,596 366,596"/>
+          <TextEquiv>
+            <Unicode>فا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w287">
+          <Coords points="336,579 363,579 363,598 336,598"/>
+          <TextEquiv>
+            <Unicode>ت</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w288">
+          <Coords points="327,572 331,572 331,593 327,593"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w289">
+          <Coords points="305,574 308,574 308,595 305,595"/>
+          <TextEquiv>
+            <Unicode>ا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w290">
+          <Coords points="305,576 323,576 323,600 305,600"/>
+          <TextEquiv>
+            <Unicode>لو</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w291">
+          <Coords points="270,579 302,579 302,600 270,600"/>
+          <TextEquiv>
+            <Unicode>قعة</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w292">
+          <Coords points="249,567 265,567 265,599 249,599"/>
+          <TextEquiv>
+            <Unicode>في</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w293">
+          <Coords points="224,571 246,571 246,597 224,597"/>
+          <TextEquiv>
+            <Unicode>حا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w294">
+          <Coords points="194,573 223,573 223,603 194,603"/>
+          <TextEquiv>
+            <Unicode>ل</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w295">
+          <Coords points="176,586 203,586 203,602 176,602"/>
+          <TextEquiv>
+            <Unicode>مر</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w296">
+          <Coords points="152,578 185,578 185,598 152,598"/>
+          <TextEquiv>
+            <Unicode>ضه</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w297">
+          <Coords points="137,586 149,586 149,600 137,600"/>
+          <TextEquiv>
+            <Unicode>و</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w298">
+          <Coords points="106,586 136,586 136,609 106,609"/>
+          <TextEquiv>
+            <Unicode>بعد</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w299">
+          <Coords points="73,571 88,571 88,597 73,597"/>
+          <TextEquiv>
+            <Unicode>فا</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w300">
+          <Coords points="56,580 71,580 71,605 56,605"/>
+          <TextEquiv>
+            <Unicode>ته</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w301">
+          <Coords points="28,572 58,572 58,611 28,611"/>
+          <TextEquiv>
+            <Unicode>بين</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv>
+          <Unicode> ا لا ختلا فا ت ا ا لو قعة في حا ل مر ضه و بعد فا ته بين</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
